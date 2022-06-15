@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T11:36:13 BDT" name="Default suite" finished-at="2022-06-15T11:40:03 BDT" duration-ms="230057">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T11:36:13 BDT" name="Default test" finished-at="2022-06-15T11:40:03 BDT" duration-ms="230057">
+      <class name="DDT.LoginTestWithExcelData">
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:36:19 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:36:56 BDT" duration-ms="36167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:36:56 BDT" name="tearDown" finished-at="2022-06-15T11:36:56 BDT" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:36:56 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:37:08 BDT" duration-ms="12654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1235]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:37:08 BDT" name="tearDown" finished-at="2022-06-15T11:37:09 BDT" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:37:09 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:37:24 BDT" duration-ms="15051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1236]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:37:24 BDT" name="tearDown" finished-at="2022-06-15T11:37:24 BDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:37:24 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:38:02 BDT" duration-ms="37778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1237]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:02 BDT" name="tearDown" finished-at="2022-06-15T11:38:02 BDT" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:02 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:38:27 BDT" duration-ms="25018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1238]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:27 BDT" name="tearDown" finished-at="2022-06-15T11:38:27 BDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:27 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:38:46 BDT" duration-ms="19082" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1239]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:46 BDT" name="tearDown" finished-at="2022-06-15T11:38:46 BDT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:38:46 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:39:09 BDT" duration-ms="23150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1240]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:09 BDT" name="tearDown" finished-at="2022-06-15T11:39:09 BDT" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:09 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:39:30 BDT" duration-ms="20983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1241]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:30 BDT" name="tearDown" finished-at="2022-06-15T11:39:30 BDT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:30 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:39:52 BDT" duration-ms="21378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1242]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:52 BDT" name="tearDown" finished-at="2022-06-15T11:39:52 BDT" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginToSAM(java.lang.String,java.lang.String)[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:39:52 BDT" name="loginToSAM" data-provider="SAMLogin" finished-at="2022-06-15T11:40:03 BDT" duration-ms="11161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alphatest5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1243]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSAM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DDT.LoginTestWithExcelData@1b1473ab]" started-at="2022-06-15T11:40:03 BDT" name="tearDown" finished-at="2022-06-15T11:40:03 BDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DDT.LoginTestWithExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
